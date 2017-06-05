@@ -1,0 +1,17 @@
+com\tlevchukart\entity\ShoppingCart.class
+com\tlevchukart\entity\User.class
+com\tlevchukart\entity\UserAddress.class
+com\tlevchukart\entity\Wishlist.class
+com\tlevchukart\controller\Main.class
+com\tlevchukart\dao\UserDao.class
+com\tlevchukart\entity\PaymentMethodDirectBankTransfer.class
+com\tlevchukart\entity\Countries.class
+com\tlevchukart\entity\Title.class
+com\tlevchukart\entity\Additional_information_tab.class
+com\tlevchukart\entity\Categories.class
+com\tlevchukart\entity\Orders.class
+com\tlevchukart\entity\Checkout.class
+com\tlevchukart\entity\Description_tab.class
+com\tlevchukart\entity\Messages.class
+com\tlevchukart\entity\Review_tab.class
+com\tlevchukart\entity\PaymentMethodPayPall.class
